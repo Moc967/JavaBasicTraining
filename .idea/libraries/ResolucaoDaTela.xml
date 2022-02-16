@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ResolucaoDaTela">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ResolucaoDaTela/dist/ResolucaoDaTela.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

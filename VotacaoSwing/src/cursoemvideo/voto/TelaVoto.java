@@ -89,13 +89,13 @@ public class TelaVoto extends javax.swing.JFrame {
     private void btnVotoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnVotoActionPerformed
         // TODO add your handling code here:
         int a = Integer.parseInt(txtAno.getText());
-        int i = 2018 - a;
+        int i = 2022 - a;
         
         if (i<16){
             lblR.setText("Não Vota!!");
         } else if ((i>=16 && i<18) || (i>70)){
                 lblR.setText("Voto Opcional");
-        } else if(i>=70){
+        } else{
                 lblR.setText("Voto Obrigatório!!");
         }
     

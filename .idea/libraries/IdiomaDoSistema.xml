@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="IdiomaDoSistema">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/IdiomaDoSistema/dist/IdiomaDoSistema.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
